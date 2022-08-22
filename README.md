@@ -1,10 +1,8 @@
-# Web3 Shopping Cart in BSC  🛍️ 
-### https://web3-shopping-cart.vercel.app/
+# Web3 Shopping Cart 
+### https://shoping-cart-6itdht1mr-thandercash.vercel.app/
 
 ## Preview
 
-<img src="https://drive.google.com/uc?export=view&id=1_7PQ7ETmVszksPK5J4RoMFUSeFy3xERy"/>
-<img src="https://drive.google.com/uc?export=view&id=1iUxP6lEFl3Afak6Ey5GqBZ0i5ou4Awkd"/>
 
 ## Technologies used:
 
@@ -20,6 +18,5 @@
 
 ### License & copyright
 
-Copyright (c) 2022 Omer Bayramcavus
 
 Licensed under the [MIT License](LICENSE).
