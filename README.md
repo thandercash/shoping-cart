@@ -1,5 +1,5 @@
 # Web3 Shopping Cart 
-### https://shoping-cart-6itdht1mr-thandercash.vercel.app/
+### https://shoping-cart-self.vercel.app/
 
 ## Preview
 
